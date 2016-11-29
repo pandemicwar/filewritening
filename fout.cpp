@@ -1,4 +1,7 @@
-
+#include <string>
+#include <iostream> 
+#include <fstream>
+int main()
 {
     setlocale (LC_ALL, "Russian");
     std::string bufStr, text = "";
